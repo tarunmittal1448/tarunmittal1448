@@ -2,9 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TarunMittal&color=brightgreen)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/yourgithub)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square&logo=web)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tarun-kumar-mittal)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/tarunmittal1448)
 
 ---
 
@@ -46,9 +45,9 @@ Hi! I'm **Tarun Kumar Mittal**, a passionate Software Engineer who loves solving
 
 ## 📊 GitHub Stats
 
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=codinggita&show_icons=true&theme=radical)
+![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunmittal1448&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinggita&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmittal1448&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
